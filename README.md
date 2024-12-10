@@ -32,7 +32,7 @@ The model is also used as a donor model for the Dutch Strategic Freight transpor
 In addition, most of the academic exploration and development steps are taken with the help of PhD, Master or Bachelor students.
 
 ## Publications
-- de Bok, M, S Giasoumi, L Tavasszy, A Nadi, S Thoen, J Streng (under review) “A simulation study of the impacts of micro-hub scenarios for city logistics in Rotterdam”. Research in Transportation Business & Management. Vol 56. pp. xx-xx
+- de Bok, M, S Giasoumi, L Tavasszy, A Nadi, S Thoen, J Streng (2024) “A simulation study of the impacts of micro-hub scenarios for city logistics in Rotterdam”. Research in Transportation Business & Management. Vol 56. pp. xx-xx
 - de Bok, M, L Tavasszy, A Nadi, S Thoen, S Giasoumi, J Streng (2024) “Learnings from the simulation of use cases in city logistics in the HARMONY project”. Transportation Research Procedia. Vol 79, pp. 249–256
 - Tapia, R., I Kourounioti, S Thoen, M de Bok, L Tavasszy (2023). "A disaggregate model of passenger-freight matching in crowdshipping services." Transportation Research Part A: Policy and Practice. Vol 169, pp. xx-xx 
 - Mohammed, A R, A Nadi, L Tavasszy, M de Bok (2023) “A data fusion approach to identify distribution chain segments in freight shipment databases”, Transportation Research Records, Vol 2677, pp. 310-323.
