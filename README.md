@@ -27,7 +27,7 @@ The next figure gives an indication of the scope of the simulation and (intermed
 
 ## Development path and collaborations
 As explained, ‘the’ MASS-GT model, is developed in an evolutionary approach. This means different releases of the simulator have been developed, and many are expected to follow as this line of research still hosts so many challenges. 
-Contributions are in research innovation projects funded by the European Commission such as the HARMONY (http://harmony-h2020.eu/)  and LEAD (https://www.leadproject.eu/) projects. Through these H2020 projects, there is an intense collaboration with technical partner Significance (www.significance.nl), or public authorities such as the City of Rotterdam (https://www.rotterdam.nl/english/).
+Contributions are in research innovation projects funded by the European Commission such as the HARMONY (http://harmony-h2020.eu/) , LEAD (https://www.leadproject.eu/) or URBANE (https://www.urbane-horizoneurope.eu/) projects. Through these H2020 projects, there is an intense collaboration with technical partner Significance (www.significance.nl), or public authorities such as the City of Rotterdam (https://www.rotterdam.nl/english/).
 The model is also used as a donor model for the Dutch Strategic Freight transport demand model BasGoed for Rijkswaterstaat. The implemented module is also available as an open-source module that can be run wit a full set-up of the BasGoed model.
 In addition, most of the academic exploration and development steps are taken with the help of PhD, Master or Bachelor students.
 
