@@ -1,4 +1,6 @@
 # overview of the Mass-GT project
+In order to get access to the code pleasae send your GitHub account name or e-mail adress to thoen@significance.nl or m.a.debok@tudelft.nl to get full access to the repository. External users are invited to make use of existing subversions of the model, and to contribute to the further development of the simulation approach (GPL 2.0 license). 
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/81620383/186445600-255ebfc9-bc95-4d09-9bbb-600c4fa82638.png" width="150" height="155">
   <img src="https://user-images.githubusercontent.com/81620383/186445620-0eea8abf-66d1-4cc9-91be-b73295bc125d.png" width="125" height="125">
