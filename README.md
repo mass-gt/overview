@@ -12,10 +12,14 @@ In order to get access to the code pleasae send your GitHub account name or e-ma
 ## Introduction
 
 The MASS-GT model is a multi-agent simulation models for urban freight transport. Main motivators were the absence of strategic simulation tool for impact assessment of city logistic developments and policies, and the emergence of new sources of large data collections on freight transport.
+
 It is being developed at Delft University of Technology. In different research projects the system is further developed with the help Significance as a technical partner, or public authorities (such as the City of Rotterdam of the Road Transport Authorities RWS) as important stakeholders in the use and application of the models.
-The acronym MASS-GT stands for Multi-Agent Simulation System for Goods Transport and expresses the general specifications of the approach. First of all, the multi-agent approach is adopted to explicitly address the heterogeneity of stakeholders that are involved in urban freight transport (e.g. producers, customers, carriers, local administrators). Second, an extensive dense dataset with freight vehicle trip diary data is used to develop data-based simulation solutions and calibrate logistical choice models. Demand is simulated at the unit of shipments (instead of vehicles) to complement the more behavioural approach we are aiming at. Some shipments are transported directly from producer to consumer but many goods are transported via distribution channels with one or more ‘logistical nodes’. Therefore distribution centers and transshipment terminals are represented as logistic nodes, to distinguish transportation flows that are part of a multi-tier distribution channel. Figure 1 illustrates how the goods are transported as shipments between producer and consumer, and where which logistical choices are made. It illustrates strategic choices, such as distribution channel choice, shipment size, and tactical choices such as vehicle type and tour formation. 
- 
-<img src="https://user-images.githubusercontent.com/81620383/186440192-8ab2b276-8fb5-4a2a-8815-5dbf92aeed1a.png" width="648" height="280">
+
+The acronym MASS-GT stands for Multi-Agent Simulation System for Goods Transport and expresses the general specifications of the approach. First of all, the multi-agent approach is adopted to explicitly address the heterogeneity of stakeholders that are involved in urban freight transport (e.g. producers, customers, carriers, local administrators). Demand is simulated at the unit of shipments (instead of vehicles) to complement the more behavioural approach we are aiming at. Second, an extensive dense dataset with freight vehicle trip diary data is used to develop data-based simulation solutions and calibrate logistical choice models. 
+
+The model distinguish conventional commodity demand and parcel demand (or micro freight). Each of these demand segments consists of a series of logistic choices. The following figure illustrates the logistic choices behind each demand segment in the conceptualization of MASS-GT. For conventional commodity demand shipments are transported directly from producer to consumer or via distribution channels with one or more ‘logistical nodes’. Therefore distribution centers and transshipment terminals are represented as logistic nodes, to distinguish transportation flows that are part of a multi-tier distribution channel. The freight demand is predicted simulating strategic choices, such as distribution channel choice, shipment size, and tactical choices such as vehicle type and tour formation. The delivery of parcel demand involves the simulation of parcel ordering, carrier allocation, and scheduling of delivery tours.
+
+<img width="524" height="495" alt="Mass_GT_conceptual_v2" src="https://github.com/user-attachments/assets/60008cf3-bf6b-4d86-af02-cbab80fec4ac" />
 
 *Conceptual model for logistic choices in MASS-GT*
 
@@ -34,6 +38,7 @@ The model is also used as a donor model for the Dutch Strategic Freight transpor
 In addition, most of the academic exploration and development steps are taken with the help of PhD, Master or Bachelor students.
 
 ## Publications
+- de Bok, M, L Tavasszy, S Thoen, L Eggers, I Kourounioti (2025) MASS-GT: an empirical model for the simulation of freight policies, Simulation Modelling Practice and Theory. Vol 142, doi:https://doi.org/10.1016/j.simpat.2025.103140
 - de Bok, M, S Giasoumi, L Tavasszy, A Nadi, S Thoen, J Streng (2024) “A simulation study of the impacts of micro-hub scenarios for city logistics in Rotterdam”. Research in Transportation Business & Management. Vol 56. pp. xx-xx
 - de Bok, M, L Tavasszy, A Nadi, S Thoen, S Giasoumi, J Streng (2024) “Learnings from the simulation of use cases in city logistics in the HARMONY project”. Transportation Research Procedia. Vol 79, pp. 249–256
 - Tapia, R., I Kourounioti, S Thoen, M de Bok, L Tavasszy (2023). "A disaggregate model of passenger-freight matching in crowdshipping services." Transportation Research Part A: Policy and Practice. Vol 169, pp. xx-xx 
